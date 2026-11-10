@@ -1,1 +1,1 @@
-# Math calculations configuration
+Marc's Algorithm: Total = Cost * 1.08
