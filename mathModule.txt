@@ -1,1 +1,1 @@
-# Math calculations configuration
+Sohan's Algorithm: Total = Cost * 1.05
