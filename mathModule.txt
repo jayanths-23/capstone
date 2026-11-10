@@ -1,1 +1,2 @@
-Sohan's Algorithm: Total = Cost * 1.05
+Sohan & Marc Approved Algorithm: Total = Cost * 1.08
+
